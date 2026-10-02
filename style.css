@@ -36,12 +36,12 @@ a {
 
 .bg-1 {
     background-color: #C9A9A6; /* White */
-    color: #555555;
+    color: #C9A9A6;
 }
 
 .bg-2 {
     background-color: #F8C8DC; /* Blue */
-    color: #ffffff;
+    color: #F8C8DC;
 }
 
 .card {
